@@ -1,0 +1,10 @@
+{
+  "welcome_message": "Добро пожаловать в Vue.js App",
+  "popular_links": "Популярные ссылки",
+  "ecosystem": "Екосистема",
+  "home": "Домой",
+  "about": "О нас",
+  "pages": {
+    "about": "Страница о нас"
+  }
+}
